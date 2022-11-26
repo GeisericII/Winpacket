@@ -1,4 +1,4 @@
 # Winpacket
 
-Useful impacket binaries statically compiled for Windows
+Useful impacket binaries (plus others) statically compiled for Windows
 
